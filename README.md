@@ -1,4 +1,4 @@
-# Advanced Game Programming Midterm
+# Advanced Game Programming Midterm Color Runners
  
 Bazı boyutu yüksek,farklı olan dosyaları ve github'In hata vermesiyle yükleyememiştim. Kod ve önemli kısımlarını yükleyebilmiştim.
 
