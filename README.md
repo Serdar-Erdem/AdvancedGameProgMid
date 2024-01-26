@@ -1,5 +1,5 @@
-# AdvancedGameProgMid
+# Advanced Game Programming Midterm
  
-Hocam, geceden beri her şeyi denedim. Bazı boyutu yüksek,farklı olan dosyalardan ve github'ın güncel olmamasından dolayı yükleyememiştim sanırım. Şimdi kod ve önemli kısımlarını yükleyebildim ancak kusura bakmayın.
+Bazı boyutu yüksek,farklı olan dosyaları ve github'In hata vermesiyle yükleyememiştim. Kod ve önemli kısımlarını yükleyebilmiştim.
 
 Kod kısmı için ChatGPT, Bard; görsel, model, animasyon içinse Mixamo, Sketchfab, CGTrader'dan faydalandım.
