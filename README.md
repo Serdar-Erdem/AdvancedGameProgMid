@@ -1,5 +1,8 @@
 # Advanced Game Programming Midterm Color Runners
  
-Bazı boyutu yüksek,farklı olan dosyaları ve github'In hata vermesiyle yükleyememiştim. Kod ve önemli kısımlarını yükleyebilmiştim.
+Image 1
+<img src="https://raw.githubusercontent.com/Serdar-Erdem/AdvancedGameProgMid/main/cl1.png" width="auto">
 
-Kod kısmı için ChatGPT, Bard; görsel, model, animasyon içinse Mixamo, Sketchfab, CGTrader'dan faydalandım.
+
+Image 2
+<img src="https://raw.githubusercontent.com/Serdar-Erdem/AdvancedGameProgMid/main/cl2.png" width="auto">
