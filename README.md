@@ -1,7 +1,7 @@
 # Advanced Game Programming Midterm Color Runners
  
 Image 1
-<img src="https://raw.githubusercontent.com/Serdar-Erdem/AdvancedGameProgMid/main/cl1.png" width="auto">
+<img src="" width="auto">
 
 
 Image 2
